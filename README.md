@@ -21,7 +21,7 @@ They have contracted a consulting company to understand the factors on which the
 - Create a linear model that describes the effect of various factors on the demand for these shared bikes
 - The model should be interpretable so that the management understands it
 - Dataset being used for this case study
-
+[day.csv](day.csv)
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
